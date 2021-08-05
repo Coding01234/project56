@@ -1,0 +1,29 @@
+html{
+     background-image:linear-gradient(to bottom, #18FFFF, #E040FB )
+}
+
+
+body {
+    text-align: center;
+     
+
+div {
+    margin-top: 15px;
+}
+
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: azure;
+}
+ 
+h1 {
+    font-family: cursive;
+    color: hotpink;
+}
+ 
